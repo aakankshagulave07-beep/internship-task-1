@@ -1,0 +1,21 @@
+# Hello World
+print("Hello World")
+
+# Create two variables
+a = 10
+b = 3
+
+#  Addition
+print("Addition:", a + b)
+
+#  Difference
+print("Difference:", a - b)
+
+# Multiplication
+print("Multiplication:", a * b)
+
+#  Division
+print("Division:", a / b)
+
+#  Modulus
+print("Modulus:", a % b)
